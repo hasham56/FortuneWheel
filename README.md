@@ -9,6 +9,6 @@ This is a Fortune Wheel game written in python-turtle, but the wheel actually sp
   The main purpose of this code is to actually show how you can rotate a wheel and extract its spin value.
 
 ## Here is screenshot where the cosole is showing the same result as the wheel pointer.
-![](screenshots/screen.PNG)
+![](screenshots/screen1.PNG)
 
 If any queries you can ask me i will try to reply as soon as possible!
